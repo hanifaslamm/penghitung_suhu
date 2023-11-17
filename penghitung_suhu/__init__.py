@@ -1,0 +1,3 @@
+from penghitungan_suhu import to_celsius
+from penghitungan_suhu import to_fahrenheit
+from penghitungan_suhu import to_kelvin
